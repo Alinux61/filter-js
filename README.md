@@ -1,1 +1,1 @@
-DEMO: https://thealinux.github.io/filter-js/
+DEMO: https://mealinux.github.io/filter-js/
